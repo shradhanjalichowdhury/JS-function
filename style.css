@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(32, 131, 244);
+    padding: 30px;
+    margin: 10px;
+    border-style: dashed;
+}
+#Function{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(238, 135, 32);
+    font-style: italic;
+}
+P{
+    font-size: 24px;
+}
